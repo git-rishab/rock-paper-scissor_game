@@ -35,9 +35,6 @@ The game is built using a combination of technologies:
 ## Glimpse of the Website
 
 ![Gameplay Image 1](/images/gameplay_1.png)
-*Fig. 1: Example gameplay showing the user's gesture and the game's response.*
-
-![Gameplay Image 2](/images/gameplay_2.png)
-*Fig. 2: Another example of gameplay with different user gestures and outcomes.*
+*Fig: Example gameplay showing the user's gesture and the game's response.*
 
 ---
