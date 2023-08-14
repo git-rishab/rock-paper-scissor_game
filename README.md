@@ -34,7 +34,7 @@ The game is built using a combination of technologies:
 
 ## Glimpse of the Website
 
-![Gameplay Image 1](/images/gameplay_1.png)
+![Screenshot (666)](https://github.com/git-rishab/rock-paper-scissor_game/assets/114337213/f0e62d3d-7565-430b-bbba-4cc4b8761d30)
 *Fig: Example gameplay showing the user's gesture and the game's response.*
 
 ---
